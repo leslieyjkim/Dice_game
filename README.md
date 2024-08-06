@@ -4,7 +4,7 @@
 ![Screenshot](https://raw.githubusercontent.com/leslieyjkim/Dicee_game/0dac5ba13926fb6fd9b0bd5f5334c7dee27de288/TIED.png)
 
 # Click me!
-
+https://leslieyjkim.github.io/Dice_game/
 
 # Dicee Game
 Welcome to the Dicee Game! This is a fun and simple two-player game where each player rolls a dice to see who can get the highest number. It's a quick and entertaining way to enjoy some friendly competition.
